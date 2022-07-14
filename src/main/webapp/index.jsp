@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World we are integrating CD/CI</h2>
+<h2>Hello World we are integrating CI/CD</h2>
 </body>
 </html>
